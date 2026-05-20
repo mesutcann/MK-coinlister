@@ -19,7 +19,7 @@ A professional cryptocurrency dashboard built with React and Tailwind CSS. Track
 - **Pagination**: Efficient pagination for large datasets
 
 ## 📋 Table of Contents
-
+................
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the App](#running-the-app)
