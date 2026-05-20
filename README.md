@@ -98,7 +98,7 @@ Create an optimized production build:
 ```bash
 npm run build
 ```
-
+xxxxxxxxxxxxxxxxx
 The build folder will contain the production-ready files.
 
 ### Run Tests
