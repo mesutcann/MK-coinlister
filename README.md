@@ -17,7 +17,7 @@ A professional cryptocurrency dashboard built with React and Tailwind CSS. Track
 - **Responsive Design**: Fully responsive UI that works on all devices
 - **Search & Filter**: Advanced search and filtering options for coins
 - **Pagination**: Efficient pagination for large datasets
-
+c
 ## 📋 Table of Contents
 ................
 - [Installation](#installation)
