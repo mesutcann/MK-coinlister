@@ -1,7 +1,7 @@
 # CoinList - Cryptocurrency Dashboard
 
 A professional cryptocurrency dashboard built with React and Tailwind CSS. Track real-time crypto prices, read the latest news, and manage your personal watchlist.
-
+ccc
 ![CoinList](https://img.shields.io/badge/React-18.2.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC)
 ![License](https://img.shields.io/badge/license-MIT-green)
